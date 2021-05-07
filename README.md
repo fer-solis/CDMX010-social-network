@@ -43,6 +43,6 @@ El proyecto será _entregado_ subiendo tu código a GitHub (`commit`/`push`) y l
 interfaz será desplegada usando GitHub pages u otro servicio de hosting que
 puedas haber encontrado en el camino.
 
-### [Entrega Social Network](http://https://confident-villani-e43ae1.netlify.app/ "Social Network")
+### [Entrega Social Network](https://confident-villani-e43ae1.netlify.app/)
 
 ***
